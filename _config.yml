@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Oriel Perets, PhD Candidate"
+title                    : "Oriel Perets"
 title_separator          : "-"
 name                     : &name "Oriel Perets"
 description              : &description "personal description"
@@ -21,21 +21,21 @@ repository               : "oriel9p/oriel9p.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "oriel-kitz-square.jpg"
   name             : "Oriel Perets"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ Big Biomedical Data (Nadav Rapoport) Lab"
   location         : "Israel"
-  employer         : "Ben Gurion University of the Negev"
+  employer         : "Ben Gurion University"
   uri              : # URL
   email            : "oriel@post.bgu.ac.il" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rcTaaxcAAAAJ&hl=en&inst=2200037940676332253&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0002-2079-6582"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : oriel-perets-558635112/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
