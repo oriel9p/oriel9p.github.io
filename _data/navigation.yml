@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=rcTaaxcAAAAJ&hl=en&inst=2200037940676332253&oi=ao
-
+    url: /publications/
+    
   - title: "Teaching"
     url: /teaching/    
     

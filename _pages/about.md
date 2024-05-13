@@ -25,15 +25,15 @@ redirect_from:
 
 ## ✈️ Conferences in 2024-2025
 
-[The Twelfth International Conference on Learning Representations](https://iclr.cc/)
+[The Twelfth International Conference on Learning Representations (ICLR)](https://iclr.cc/)
 
-[22nd Internation Conference on Artificial Intelligence in Medicine](https://aime24.aimedicine.info/)
+[22nd Internation Conference on Artificial Intelligence in Medicine (AIME)](https://aime24.aimedicine.info/)
 
-## 📚 Research in Progress
+## 📚 Currently Trying to Figure out
 
 Are Multi-LLM-Agent Systems any good for Clinical use cases?
 
 ## 📘 Teaching Experience
 
-* Tought: Intro to Computer Science in Python
+* Taught: Intro to Computer Science in Python
 * Teacher's Aid: C for Mechanical Engineering, Intro to Python, Data Structures in Java
