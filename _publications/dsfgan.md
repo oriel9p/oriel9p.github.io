@@ -8,4 +8,3 @@ venue: 'The Twelfth International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/forum?id=Vfp8jhwcCc'
 citation: 'Perets, O. and Rappoport, N., DSF-GAN: Downstream Feedback Generative Adversarial Network. In The Second Tiny Papers Track at ICLR 2024.'
 ---
-
