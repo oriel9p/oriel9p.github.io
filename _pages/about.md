@@ -17,11 +17,23 @@ redirect_from:
 
 ## 📜 Recent Publications
 
+[DSF-GAN: Downstream Feedback Generative Adversarial Network](https://openreview.net/forum?id=Vfp8jhwcCc)
+
+[Subpopulation-Specific Synthetic EHR for Better Mortality Prediction](https://arxiv.org/abs/2305.16363)
+
+[Inherent Bias in Electronic Health Records: A Scoping Review of Sources of Bias](https://www.medrxiv.org/content/10.1101/2024.04.09.24305594v1)
+
+## ✈️ Conferences in 2024-2025
+
+[The Twelfth International Conference on Learning Representations](https://iclr.cc/)
+
+[22nd Internation Conference on Artificial Intelligence in Medicine](https://aime24.aimedicine.info/)
 
 ## 📚 Research in Progress
 
+Are Multi-LLM-Agent Systems any good for Clinical use cases?
 
 ## 📘 Teaching Experience
 
-
-
+* Tought: Intro to Computer Science in Python
+* Teacher's Aid: C for Mechanical Engineering, Intro to Python, Data Structures in Java
