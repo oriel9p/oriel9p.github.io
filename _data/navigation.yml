@@ -1,11 +1,10 @@
 # main links links
 main:
-
- - title: "About"
-   url: /
-
   - title: "Publications"
     url: https://scholar.google.com/citations?user=rcTaaxcAAAAJ&hl=en&inst=2200037940676332253&oi=ao
 
+  - title: "Teaching"
+    url: /teaching/    
+    
   - title: "Portfolio"
     url: /portfolio/
