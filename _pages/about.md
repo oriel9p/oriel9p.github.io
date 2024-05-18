@@ -27,7 +27,7 @@ redirect_from:
 
 [The Twelfth International Conference on Learning Representations (ICLR)](https://iclr.cc/)
 
-[22nd Internation Conference on Artificial Intelligence in Medicine (AIME)](https://aime24.aimedicine.info/)
+[22nd International Conference on Artificial Intelligence in Medicine (AIME)](https://aime24.aimedicine.info/)
 
 ## 📚 Currently Trying to Figure out
 
