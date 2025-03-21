@@ -27,7 +27,7 @@ redirect_from:
 
 ## ✈️ Conferences in 2024-2025
 
-[The Association for the Advancement of Artificial Intelligence (AAAI 2025)](https://iclr.cc/)
+[The Association for the Advancement of Artificial Intelligence (AAAI 2025)](https://aaai.org/conference/aaai/aaai-25/)
 
 [The Twelfth International Conference on Learning Representations (ICLR 2024)](https://iclr.cc/)
 
