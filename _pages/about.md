@@ -17,6 +17,8 @@ redirect_from:
 
 ## 📜 Recent Publications
 
+[CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset](https://arxiv.org/pdf/2503.06204)
+
 [DSF-GAN: Downstream Feedback Generative Adversarial Network](https://openreview.net/forum?id=Vfp8jhwcCc)
 
 [Subpopulation-Specific Synthetic EHR for Better Mortality Prediction](https://arxiv.org/abs/2305.16363)
@@ -25,14 +27,15 @@ redirect_from:
 
 ## ✈️ Conferences in 2024-2025
 
-[The Twelfth International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+[The Association for the Advancement of Artificial Intelligence (AAAI 2025)](https://iclr.cc/)
 
-[22nd International Conference on Artificial Intelligence in Medicine (AIME)](https://aime24.aimedicine.info/)
+[The Twelfth International Conference on Learning Representations (ICLR 2024)](https://iclr.cc/)
+
+[22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)](https://aime24.aimedicine.info/)
 
 ## 📚 Currently Trying to Figure out
 
-Are Multi-LLM-Agent Systems any good for Clinical use cases?
-
+Vision Language models for complex, real-world medical cases.
 ## 📘 Teaching Experience
 
 * Taught: Intro to Computer Science in Python
