@@ -9,23 +9,31 @@ redirect_from:
 
 ![iclr conference oriel](/images/iclr-poster.jpg){: .align-right width="300px"}
 
-👨‍🎓 I'm a PhD Candidate @ The [Big Biomedical Data Lab](https://nadavrap.com) in Ben Gurion Univeristy of the Negev, under the supervision of [Nadav Rappoport](https://scholar.google.com/citations?user=zL-QE0cAAAAJ&hl=en&inst=2200037940676332253&oi=ao)
+👨‍🎓 I'm a PhD Candidate @ The [Big Biomedical Data Lab](https://nadavrap.com) in Ben-Gurion Univeristy of the Negev, under the supervision of [Nadav Rappoport](https://scholar.google.com/citations?user=zL-QE0cAAAAJ&hl=en&inst=2200037940676332253&oi=ao)
 
-🔬 My research interest is Generative AI, and biomedical data
+🔬 My research interests are Large Language Models for health care, tabular (EHR) foundation models, and biomedical data science 
 
-🎓 Working towards a PhD in Software and Information Systems Engineering
+~Actively looking for a Post-doc position!
+
+🎓 Working towards a PhD in Computer and Information Science
 
 ## 📜 Recent Publications
 
-[CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset](https://arxiv.org/pdf/2503.06204)
+[CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset](https://ojs.aaai.org/index.php/AAAI/article/view/35050)
+
+[LCHAIM - Investigating Long Context Reasoning in Hebrew](https://aclanthology.org/2025.findings-acl.413/)
 
 [DSF-GAN: Downstream Feedback Generative Adversarial Network](https://openreview.net/forum?id=Vfp8jhwcCc)
 
-[Subpopulation-Specific Synthetic EHR for Better Mortality Prediction](https://arxiv.org/abs/2305.16363)
+[Incidence of gout diagnosis among participants with hyperuricemia, insights from a nationwide cohort study](https://www.sciencedirect.com/science/article/pii/S0049017225001350)
 
-[Inherent Bias in Electronic Health Records: A Scoping Review of Sources of Bias](https://www.medrxiv.org/content/10.1101/2024.04.09.24305594v1)
+[Subpopulation-Specific Synthetic EHR for Better Mortality Prediction](https://academic.oup.com/jamiaopen/article/8/4/ooaf091/8226061)
 
-## ✈️ Conferences in 2024-2025
+[Inherent Bias in Electronic Health Records: A Scoping Review of Sources of Bias](https://dl.acm.org/doi/abs/10.1145/3757924)
+
+## ✈️ Conferences in 2024-2026
+
+[Association for Computational Linguistics (ACL 2025)](https://2025.aclweb.org/calls/main_conference_papers/)
 
 [The Association for the Advancement of Artificial Intelligence (AAAI 2025)](https://aaai.org/conference/aaai/aaai-25/)
 
@@ -35,8 +43,7 @@ redirect_from:
 
 ## 📚 Currently Trying to Figure out
 
-Vision Language models for complex, real-world medical cases.
+Clinical reasoning language models for diagnostic assistance in complex disease
 ## 📘 Teaching Experience
 
-* Taught: Intro to Computer Science in Python
-* Teacher's Aid: C for Mechanical Engineering, Intro to Python, Data Structures in Java
+* Intro to Computer Science in Python ,C for Mechanical Engineering, Intro to Python, Data Structures in Java
