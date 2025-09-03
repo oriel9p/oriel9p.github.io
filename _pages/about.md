@@ -19,17 +19,17 @@ redirect_from:
 
 ## 📜 Recent Publications
 
-[CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset](https://ojs.aaai.org/index.php/AAAI/article/view/35050)
+[CUPCase: Clinically Uncommon Patient Cases and Diagnoses Dataset](https://ojs.aaai.org/index.php/AAAI/article/view/35050) - AAAI 2025
 
-[LCHAIM - Investigating Long Context Reasoning in Hebrew](https://aclanthology.org/2025.findings-acl.413/)
+[LCHAIM - Investigating Long Context Reasoning in Hebrew](https://aclanthology.org/2025.findings-acl.413/) - ACL 2025
 
-[DSF-GAN: Downstream Feedback Generative Adversarial Network](https://openreview.net/forum?id=Vfp8jhwcCc)
+[Incidence of gout diagnosis among participants with hyperuricemia, insights from a nationwide cohort study](https://www.sciencedirect.com/science/article/pii/S0049017225001350) - Seminars in Arthritis and Rheumatism
 
-[Incidence of gout diagnosis among participants with hyperuricemia, insights from a nationwide cohort study](https://www.sciencedirect.com/science/article/pii/S0049017225001350)
+[DSF-GAN: Downstream Feedback Generative Adversarial Network](https://openreview.net/forum?id=Vfp8jhwcCc) - ICLR 2024
 
-[Subpopulation-Specific Synthetic EHR for Better Mortality Prediction](https://academic.oup.com/jamiaopen/article/8/4/ooaf091/8226061)
+[Subpopulation-Specific Synthetic EHR for Better Mortality Prediction](https://academic.oup.com/jamiaopen/article/8/4/ooaf091/8226061) - JAMIA Open
 
-[Inherent Bias in Electronic Health Records: A Scoping Review of Sources of Bias](https://dl.acm.org/doi/abs/10.1145/3757924)
+[Inherent Bias in Electronic Health Records: A Scoping Review of Sources of Bias](https://dl.acm.org/doi/abs/10.1145/3757924) - ACM TIST
 
 ## ✈️ Conferences in 2024-2026
 
